@@ -1,0 +1,23 @@
+{
+  "name": "caixa-loteria-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grecio/caixa-loteria-puppeteer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grecio/caixa-loteria-puppeteer/issues"
+  },
+  "homepage": "https://github.com/grecio/caixa-loteria-puppeteer#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "puppeteer": "^1.12.2"
+  }
+}
